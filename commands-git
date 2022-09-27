@@ -1,7 +1,1 @@
-git clone [http: adder]
-git add [name of file]
-git commit-m "information text"
-git push origin main
-git branch -c [name of branch]
-git checkout [to move into new branch]
-
+delte for test
